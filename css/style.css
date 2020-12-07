@@ -60,6 +60,12 @@ h2 {
   font-size: 1.25rem;
 }
 
+#line1 {
+  font-weight: bold;
+  font-size: 1.75rem;
+  margin-top: -3px;
+}
+
 .line {
   align-self: end;
 }
@@ -80,6 +86,10 @@ button {
   filter: drop-shadow(2px 2px 3px #f1e4e0);
   font-family: "Jura", sans-serif;
   font-size: 1.5rem;
+}
+
+button > * {
+  pointer-events: none;
 }
 
 button:hover {
