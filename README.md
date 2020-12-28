@@ -1,8 +1,8 @@
-# [Calculator](https://voidteddy.github.io/calculator/)
+# [Calculator](https://louvang.github.io/calculator/)
 
-This calculator solves problems using JavaScript. It is an assignment from [The Odin Project](https://www.theodinproject.com/courses/foundations/lessons/calculator) where the problem `12 + 7 - 5 * 3` must equal `42`. To achieve this answer, the problem must be solved from left to right rather than using the order of operations. [View the calculator.](https://voidteddy.github.io/calculator/)
+This calculator solves problems using JavaScript. It is an assignment from [The Odin Project](https://www.theodinproject.com/courses/foundations/lessons/calculator) where the problem `12 + 7 - 5 * 3` must equal `42`. To achieve this answer, the problem must be solved from left to right rather than using the order of operations. [View the calculator.](https://louvang.github.io/calculator/)
 
-<p align="center"><a href="https://voidteddy.github.io/calculator/" target="_blank"><img src="https://voidteddy.github.io/calculator/img/preview.png" alt="Calculator Preview" width="750px" /></a></p>
+<p align="center"><a href="https://louvang.github.io/calculator/" target="_blank"><img src="https://louvang.github.io/calculator/img/preview.png" alt="Calculator Preview" width="750px" /></a></p>
 
 ## How To
 
